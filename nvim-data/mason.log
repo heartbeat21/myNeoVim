@@ -1,0 +1,28 @@
+[INFO  2023/11/2 12:54:05] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  2023/11/2 12:54:05] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[ERROR 2023/11/2 12:54:37] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=shfmt) error='spawn: powershell failed with exit code 1 and signal 0. iwr : 操作超时。\r\n所在位置 行:1 字符: 160\r\n+ ... pe]::Tls12; iwr -Headers @{"User-Agent"="mason.nvim v1.8.2 (+https:// ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest]，WebExce\r\n    ption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\r\n \r\n\nFailed to download file "https://github.com/mvdan/sh/releases/download/v3.7.0/shfmt_v3.7.0_windows_amd64.exe".'
+[ERROR 2023/11/2 12:54:37] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error='spawn: powershell failed with exit code 1 and signal 0. iwr : 操作超时。\r\n所在位置 行:1 字符: 160\r\n+ ... pe]::Tls12; iwr -Headers @{"User-Agent"="mason.nvim v1.8.2 (+https:// ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest]，WebExce\r\n    ption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\r\n \r\n\nFailed to download file "https://github.com/johnnymorganz/stylua/releases/download/v0.18.2/stylua-win64.zip".'
+[INFO  2023/11/2 13:27:24] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  2023/11/2 13:27:24] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  2023/11/2 13:27:24] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR 2023/11/2 13:27:31] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="Installation was aborted."
+[ERROR 2023/11/2 13:27:31] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[ERROR 2023/11/2 13:27:31] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=shfmt) error="Installation was aborted."
+[INFO  2023/11/2 14:20:47] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  2023/11/2 14:20:47] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  2023/11/2 14:20:47] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR 2023/11/2 14:20:54] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=shfmt) error="Installation was aborted."
+[ERROR 2023/11/2 14:20:54] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="Installation was aborted."
+[ERROR 2023/11/2 14:20:54] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  2023/11/11 10:53:20] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  2023/11/11 10:53:20] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  2023/11/11 10:53:20] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  2023/11/11 10:54:58] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  2023/11/11 10:55:04] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[ERROR 2023/11/11 10:55:31] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  2023/11/11 10:56:13] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR 2023/11/11 10:56:17] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  2023/11/11 10:56:51] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR 2023/11/11 10:56:55] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  2023/11/11 10:57:46] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  2023/11/11 11:10:37] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
